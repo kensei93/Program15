@@ -1,4 +1,4 @@
-![Java CI with Gradle](https://github.com/Artpogorelov/CI-JSON/actions/workflows/gradle-publish.yml/badge.svg)
+![Java CI with Gradle]([![Build status](https://ci.appveyor.com/api/projects/status/dmja3vscvax44jp7?svg=true)](https://ci.appveyor.com/project/kensei93/program15))
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
